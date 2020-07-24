@@ -1,4 +1,4 @@
-# [Steven Yuan](https://portfolio.syall.work/contact)
+# [Steven Yuan](https://portfolio.syall.work)
 
 🌐 React, Angular, Express, Spring, WordPress, AWS
 
