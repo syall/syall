@@ -9,5 +9,3 @@
 📖 Programming Languages, Compilers, Design Patterns
 
 💼 Amazon SDE Intern (2020), iCIMS SWE Intern (2019)
-
-✨ Open to Full-Time Opportunities that start after 5/21 ✨
