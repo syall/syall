@@ -1,11 +1,12 @@
-# [Steven Yuan](https://portfolio.syall.work)
+# Hi, my name is Steven Yuan!
 
-🌐 React, Angular, Express, Spring, WordPress, AWS
+Note: *Currently open to Full Time Positions after graduating in Spring 2021*
 
-🔤 HTML/CSS/JS, TypeScript, Java, Python, C, Raku, Ruby
+I am a software engineer that is interested in, well, engineering. Though my work experience has been in traditional enterprise roles, I am also fascinated with the open source community, programming language design, and compilers. I also write to improve my technical writing skills, but it is a WIP 😄.
 
-🎓 Rutgers University - Honors College, B.S. in CS, 5/21
+Here are some links that refer to me:
 
-📖 Programming Languages, Compilers, Design Patterns
-
-💼 Amazon SDE Intern (2020), iCIMS SWE Intern (2019)
+- Portfolio: [portfolio.syall.work](https://portfolio.syall.work)
+- LinkedIn: [steven-yuan](https://www.linkedin.com/in/steven-yuan/)
+- GitHub: [syall (here...)](https://www.github.com/syall)
+- Email: [s.yuan.all@gmail.com](mailto:s.yuan.all@gmail.com)
