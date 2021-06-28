@@ -1,6 +1,6 @@
 # Hi, my name is Steven Yuan!
 
-I am a software engineer that is interested in, well, engineering. Though my work experience has been in traditional enterprise roles, I am also fascinated with the open source community, programming language design, and compilers. I also write to improve my technical writing skills, but it is a WIP 😄.
+I currently work on the Amazon.com Backend as a Software Development Engineer. Outside of work, I am interested in programming language design and compilers. I also write to improve my technical writing skills, but the learning is a work-in-progress.
 
 Here are some links that refer to me:
 
