@@ -1,6 +1,10 @@
 # Hi, my name is Steven Yuan!
 
-I currently work on the Amazon.com Backend as a Software Development Engineer. Outside of work, I am interested in programming language design and compilers. I also write to improve my technical writing skills, but the learning is a work-in-progress.
+I currently work at AWS as a Software Engineer / Open Source Maintainer for [Smithy<img alt="Smithy" src="https://github.com/awslabs/smithy/raw/main/docs/themes/smithy/static/favicon.png" width="12">](https://github.com/awslabs/smithy).
+
+> Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
+
+Outside of work, I am interested in programming languages, compilers, and cross-language communication. I also write as a hobby, but my learning is a work-in-progress.
 
 Here are some links that refer to me:
 
