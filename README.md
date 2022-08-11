@@ -1,6 +1,6 @@
 # Hi, my name is Steven Yuan!
 
-I currently work at AWS as a Software Engineer / Open Source Maintainer for [Smithy<img alt="Smithy" src="https://github.com/awslabs/smithy/raw/main/docs/themes/smithy/static/favicon.png" width="12">](https://github.com/awslabs/smithy).
+I currently work at AWS as a Software Engineer / Open Source Maintainer for [<img alt="Smithy" src="https://github.com/awslabs/smithy/raw/main/docs/_static/favicon.png" width="12">Smithy](https://github.com/awslabs/smithy).
 
 > Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 
