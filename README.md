@@ -1,17 +1,19 @@
-# Hi, my name is Steven Yuan!
+# Hi, I'm Steven Yuan 👋
 
-I am interested in programming languages, compilers, code generation, and cross-language communication. I also write as a hobby, but my learning is a work-in-progress.
+I'm a software engineer interested in **programming languages, compilers, code generation, and cross-language communication**. I especially enjoy working on the layers between **APIs, languages, runtimes, and the developers who use them**.
 
-Currently, I am a graduate student at the [Full-Time Training in Anaheim](https://ftta.org). Subscribe to [my blog](https://stevenyuan.substack.com) for weekly updates on my experience!
+Previously, I was a Software Engineer II and open-source maintainer at **AWS** ([`@aws`](https://github.com/aws), [`@awslabs`](https://github.com/awslabs)), where I worked on **[Smithy](https://github.com/smithy-lang/smithy)**, an open-source API modeling language and code-generation toolchain.
 
-> The Full-Time Training in Anaheim (FTTA) is a two-year program dedicated to equipping men and women for Christian service in their respective churches and communities.
+## What I Work On
 
-Previously, I worked at AWS ([@aws](https://github.com/aws), [@awslabs](https://github.com/awslabs)) as a Software Engineer / Open Source Maintainer for [<img alt="Smithy" src="https://github.com/awslabs/smithy/raw/main/docs/_static/favicon.png" width="12">Smithy](https://github.com/awslabs/smithy).
+I like building tools and systems that make software development easier:
 
-Here are some links that refer to me:
+* **Programming Languages & Code Generation** — API modeling, serialization, compilers, code generators, and generated clients
+* **SDKs & Cross-Language Systems** — tools that connect APIs, languages, and runtimes
+* **Developer Infrastructure** — build systems, testing, CI/CD, and developer tooling
+* **Distributed Systems** — event-driven architectures, scalability, fault tolerance, and observability
+* **Cloud Infrastructure** — AWS, serverless architectures, and cloud-native systems
 
-- Weekly Blog: [stevenyuan.substack.com](https://stevenyuan.substack.com)
-- Portfolio: [portfolio.syall.work](https://portfolio.syall.work)
-- LinkedIn: [steven-yuan](https://www.linkedin.com/in/steven-yuan)
-- GitHub: [syall (here...)](https://www.github.com/syall)
-- Email: [s.yuan.all@gmail.com](mailto:s.yuan.all@gmail.com)
+## Currently
+
+I'm exploring **software engineering opportunities** in platform engineering, developer infrastructure, SDK/API infrastructure, and backend systems.
